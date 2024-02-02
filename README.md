@@ -9,7 +9,7 @@ I'm passionate about data science :test_tube:, machine learning :robot:,  and in
 
 <br>
 
-<img src="dall_e-python-panda-jupyter-robot.jpg" width="400"/>
+<img src="img/dall_e-python-panda-jupyter-robot.jpg" width="400"/>
 
 <p align="left">
 <a href="" target="_blank" rel="noreferrer">
