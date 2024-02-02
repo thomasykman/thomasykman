@@ -1,13 +1,12 @@
 # Hi there :wave:, I'm Thomas
 
-Welcome :hugs: !
-<br>
+<h3 align="center"> Welcome :hugs: ! </h3>
 
-I'm passionate about data science :test_tube:, machine learning :robot:,  and innovative technologies :bulb:
+I am passionate about data science :test_tube:, machine learning :robot:,  and innovative technologies :bulb:
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
 <img src="img/python-original.svg" alt="python" width="40" height="40"/>
 <img src="img/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer">
