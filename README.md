@@ -8,10 +8,8 @@ I'm passionate about data science :test_tube:, machine learning :robot:,  and in
 <br>
 
 <p align="left">
-<a href="" target="_blank" rel="noreferrer">
-<img src="img/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer">
-<img src="img/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<img src="img/python-original.svg" alt="python" width="40" height="40"/>
+<img src="img/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="" target="_blank" rel="noreferrer">
 <img src="img/pandas-original.svg" alt="pd" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer">
